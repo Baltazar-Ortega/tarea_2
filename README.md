@@ -28,4 +28,6 @@ dentro de los objetos no hay elementos que sean lista.
 Utilice interfaces para definir los tipos de dato de cada elemento raiz del recurso. </br>
 Despues, se crea una clase con los datos reales, llevando control de los tipos de datos
 con la ayuda de la interface.</br>
-Gracias a tener la informacion en forma de clase, sera mas facil de manipular con Typescript.
+Gracias a tener la informacion en forma de clase sera mas facil de manipular con Typescript. </br>
+
+Para representar el uso de este proceso se creó una API simple con endpoints para cada recurso. 
