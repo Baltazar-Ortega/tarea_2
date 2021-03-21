@@ -25,7 +25,7 @@ dentro de los objetos no hay elementos que sean lista.
 
 ## 4. Mapear elementos raiz de acuerdo al tipo de dato
 
-Utilice interfaces para definir los tipos de dato de cada elemento raiz del recurso.
+Utilice interfaces para definir los tipos de dato de cada elemento raiz del recurso. </br>
 Despues, se crea una clase con los datos reales, llevando control de los tipos de datos
-con la ayuda de la interface.
+con la ayuda de la interface.</br>
 Gracias a tener la informacion en forma de clase, sera mas facil de manipular con Typescript.
